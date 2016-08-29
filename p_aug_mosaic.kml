@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>p16th_aug Pix4D</name>
+<description></description>
+<Style><ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<NetworkLink>
+<name>17/130412/50276.kml</name>
+<Region>
+<LatLonAltBox>
+<north>-38.606139634147873</north>
+<south>-38.608285928505580</south>
+<east>178.190002441406278</east>
+<west>178.187255859375028</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>17/130412/50276.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<NetworkLink>
+<name>17/130413/50276.kml</name>
+<Region>
+<LatLonAltBox>
+<north>-38.606139634147873</north>
+<south>-38.608285928505580</south>
+<east>178.192749023437528</east>
+<west>178.190002441406278</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>17/130413/50276.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+
+</Document>
+</kml>
